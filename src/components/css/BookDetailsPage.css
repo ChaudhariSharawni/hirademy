@@ -1,0 +1,20 @@
+/* src/css/BookDetailsPage.css */
+
+.book-details-container {
+  margin-top: 20px;
+}
+
+.book-details-container h2 {
+  margin-bottom: 10px;
+}
+
+.book-details-container p {
+  margin-bottom: 5px;
+  background-color: rgb(59, 220, 220);
+}
+h2{
+  text-align: center;
+}
+p{
+  text-align:center;
+}
